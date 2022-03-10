@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T13:28:21.541Z" agent="5.0 (Windows)" etag="DE6_ntstlLXD1oxxS2dX" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T13:32:31.107Z" agent="5.0 (Windows)" etag="klT-78hXxzEsaUzoP75W" version="17.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1108" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="36wMK3rdm4XHX-4hNqLH-0" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="36wMK3rdm4XHX-4hNqLH-0" value="&lt;div&gt;condicional&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="36wMK3rdm4XHX-4hNqLH-1" value="entrada" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
